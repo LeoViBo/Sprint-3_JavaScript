@@ -12,8 +12,10 @@ RM551715 - Leonardo Viotti Bonini - 1ESR
 
 ## Outras Info
 npm install
+
 npm run start
 
 ## Login
 usuário: user
+
 senha: password
